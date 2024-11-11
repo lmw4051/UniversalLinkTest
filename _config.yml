@@ -1,1 +1,2 @@
-include: ["apple-app-site-association"]
+include:
+  - .well-known
